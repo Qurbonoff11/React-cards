@@ -62,6 +62,9 @@ const Productlist = ({props}) => {
       <div>
         <h2>Brand: {brand}</h2>
         <h4>Price: {price} so'm</h4>
+        <div>
+          <button>Sotib olish</button>
+        </div>
       </div>
     </div>
   )
